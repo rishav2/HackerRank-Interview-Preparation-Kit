@@ -1,2 +1,3 @@
-# HackerRank-Interview-Preparation-Kit
-Solution of Interview Preparation Kit on HackerRank
+<p align="center">
+ <b>HackerRank-Interview-Preparation-Kit</b>
+</p>
